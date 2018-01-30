@@ -4,19 +4,22 @@
   "description": "TypeScript + Micro + Graphql(Apollo-server) template",
   "main": "index.js",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "start": "micro"
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/johnwook/typescript-micro-graphql-template.git"
+    "url":
+      "git+https://github.com/johnwook/typescript-micro-graphql-template.git"
   },
   "keywords": [],
   "author": "",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/johnwook/typescript-micro-graphql-template/issues"
+    "url":
+      "https://github.com/johnwook/typescript-micro-graphql-template/issues"
   },
-  "homepage": "https://github.com/johnwook/typescript-micro-graphql-template#readme",
+  "homepage":
+    "https://github.com/johnwook/typescript-micro-graphql-template#readme",
   "dependencies": {
     "micro": "^9.1.0"
   }
