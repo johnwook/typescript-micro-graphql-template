@@ -16,5 +16,8 @@
   "bugs": {
     "url": "https://github.com/johnwook/typescript-micro-graphql-template/issues"
   },
-  "homepage": "https://github.com/johnwook/typescript-micro-graphql-template#readme"
+  "homepage": "https://github.com/johnwook/typescript-micro-graphql-template#readme",
+  "dependencies": {
+    "micro": "^9.1.0"
+  }
 }
