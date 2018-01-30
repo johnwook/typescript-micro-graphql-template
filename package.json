@@ -8,19 +8,21 @@
   },
   "repository": {
     "type": "git",
-    "url":
-      "git+https://github.com/johnwook/typescript-micro-graphql-template.git"
+    "url": "git+https://github.com/johnwook/typescript-micro-graphql-template.git"
   },
   "keywords": [],
   "author": "",
   "license": "ISC",
   "bugs": {
-    "url":
-      "https://github.com/johnwook/typescript-micro-graphql-template/issues"
+    "url": "https://github.com/johnwook/typescript-micro-graphql-template/issues"
   },
-  "homepage":
-    "https://github.com/johnwook/typescript-micro-graphql-template#readme",
+  "homepage": "https://github.com/johnwook/typescript-micro-graphql-template#readme",
   "dependencies": {
     "micro": "^9.1.0"
+  },
+  "devDependencies": {
+    "prettier": "^1.10.2",
+    "tslint": "^5.9.1",
+    "tslint-config-prettier": "^1.6.0"
   }
 }
