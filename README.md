@@ -4,4 +4,4 @@ TypeScript + Micro + Graphql(Apollo-server) template
 
 # Live demo
 
-* https://typescript-micro-graphql-template-oakwbeclub.now.sh/graphiql
+* https://typescript-micro-graphql-template-ojerzhcuae.now.sh
